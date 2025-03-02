@@ -12,6 +12,9 @@ This project was developed as part of the FLIPR Hackathon 2025 by our team:
 - Gaurav
 - Prateek
 
+### Our Team
+![FLIPR Hackathon 2025 Team](https://media.licdn.com/dms/image/v2/D5622AQGVTdKfviJ_Eg/feedshare-shrink_800/B56ZU3CMETHQAk-/0/1740385079361?e=1743638400&v=beta&t=aSILlAfR_DEt0rGVoxyPN4fIrGAeaGXC0QFCvbHTC2I)
+
 ### Verification
 Our participation in the FLIPR Hackathon 2025 can be verified through the official LinkedIn post by FLIPR, which includes our team photo and project details. 
 
