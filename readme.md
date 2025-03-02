@@ -15,7 +15,7 @@ This project was developed as part of the FLIPR Hackathon 2025 by our team:
 ### Verification
 Our participation in the FLIPR Hackathon 2025 can be verified through the official LinkedIn post by FLIPR, which includes our team photo and project details. 
 
-[View Participation Post](your_linkedin_post_url_here)
+[View Participation Post](https://www.linkedin.com/posts/fliprlabsindia_teamstrawhats-fliprhackathon25-iitdmkurnool-activity-7299704107253043200-F7py?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3G-lEBWcKgizxoZsx-q9X-yvXRi51-ync)
 
 We're proud to have created this autonomous news aggregation system as our submission for the hackathon, combining web scraping, natural language processing, and publishing automation into a single streamlined application.
 
