@@ -2,6 +2,22 @@
 
 This project is an end-to-end news aggregation and summarization tool built with Streamlit that crawls webpages to collect and process news articles. Users input a news topic, location, and preferred language through an intuitive interface, triggering a workflow where the application searches for relevant news via DuckDuckGo and then crawls the identified webpages using the Newspaper library to extract full article content. The retrieved text is then tokenized and summarized with the "facebook/bart-large-cnn" transformer model, with optional translation applied via GoogleTranslator. Finally, the processed articles—complete with original and AI-generated images—are compiled into a cohesive news roundup that can be directly published to Hashnode.
 
+## Hackathon Project
+
+This project was developed as part of the FLIPR Hackathon 2025 by our team:
+
+### Team Members
+- Abhijeet
+- Suryansh
+- Gaurav
+- Prateek
+
+### Verification
+Our participation in the FLIPR Hackathon 2025 can be verified through the official LinkedIn post by FLIPR, which includes our team photo and project details. 
+
+[View Participation Post](your_linkedin_post_url_here)
+
+We're proud to have created this autonomous news aggregation system as our submission for the hackathon, combining web scraping, natural language processing, and publishing automation into a single streamlined application.
 
 ![QuickNews Header Image](assets/ss1.png)
 ![QuickNews Header Image](assets/ss2.png)
